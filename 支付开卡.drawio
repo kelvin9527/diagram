@@ -151,19 +151,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-50" value="需要开卡" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1665" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-52" target="-lPpbDqRdvk58V6IVNGZ-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-52" value="按支付方式payType分类&lt;div&gt;01非占座类&amp;nbsp;&lt;/div&gt;&lt;div&gt;02占座类&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1370" width="180" height="60" as="geometry" />
+          <mxGeometry x="1635" y="345" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-54" target="-lPpbDqRdvk58V6IVNGZ-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-54" value="根据平台订单号（开卡时绑定的订单信息）&lt;div&gt;+ 支付方式payType&lt;/div&gt;&lt;div&gt;+卡类型（CT卡、Q卡）&lt;/div&gt;&lt;div&gt;+卡创建状态（是否开卡成功）&lt;/div&gt;&lt;div&gt;+&lt;font color=&quot;#97d077&quot;&gt;卡使用状态（是否已使用）&lt;/font&gt;&lt;br&gt;&lt;div&gt;多人分开支付时，根据reqId中包含乘客id查询&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1490" width="230" height="160" as="geometry" />
+          <mxGeometry x="1610" y="465" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-56" target="-lPpbDqRdvk58V6IVNGZ-58">
           <mxGeometry relative="1" as="geometry" />
@@ -172,19 +172,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-56" value="使用唯一标识查询订单内是否有可用的卡信息" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="1710" width="155" height="120" as="geometry" />
+          <mxGeometry x="1647.5" y="685" width="155" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-58" value="使用已开过的虚拟卡" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1930" width="120" height="60" as="geometry" />
+          <mxGeometry x="1510" y="905" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-60" target="-lPpbDqRdvk58V6IVNGZ-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-60" value="开卡" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1860" width="120" height="60" as="geometry" />
+          <mxGeometry x="1834" y="835" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-66" value="&lt;br&gt;&lt;div&gt;单程无行李、付费行李&lt;/div&gt;&lt;div&gt;往返分开支&lt;/div&gt;&lt;div&gt;取底价*人数+行李额&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;有免费行李、往返一起支&lt;/div&gt;&lt;div&gt;取订单总价&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;总价上浮 5%&amp;nbsp; 个别航司上浮20%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="297" y="2010" width="232.5" height="160" as="geometry" />
+          <mxGeometry x="1777" y="985" width="232.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-68" value="行程Id_乘客Id 作为唯一标识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="451.5" y="1150" width="217" height="60" as="geometry" />
@@ -281,7 +281,7 @@
           <mxGeometry x="-580" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-114" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;降舱场景&lt;/h1&gt;&lt;p&gt;来单升舱&lt;/p&gt;&lt;p&gt;自动支付已开卡，降舱使用已开的虚拟卡&lt;/p&gt;&lt;p&gt;先支付一个升舱后的，防止多次升舱&lt;/p&gt;&lt;p&gt;不开卡，刷到降舱后再开&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1330" y="140" width="220" height="150" as="geometry" />
+          <mxGeometry x="-1280" y="130" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-115" target="-lPpbDqRdvk58V6IVNGZ-117">
           <mxGeometry relative="1" as="geometry" />
@@ -339,7 +339,7 @@
           <mxGeometry x="-1030" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-lPpbDqRdvk58V6IVNGZ-131" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;重复开卡场景&lt;/h1&gt;&lt;p&gt;1、新接入虚拟卡时，未设置重复开卡判断。（自动支付失败，定时任务支付失败重试）&lt;/p&gt;&lt;p&gt;2、往返刷低舱，重复开卡&lt;/p&gt;&lt;p&gt;（低舱判断订单状态非支付全部成功，进行首次支付，往返订单，其中一程未支付成功，低舱判断到订单状态，非支付全部成功，再次发起支付）&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="140" width="260" height="340" as="geometry" />
+          <mxGeometry x="40" y="180" width="260" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
