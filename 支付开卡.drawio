@@ -1,9 +1,346 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.2">
   <diagram name="第 1 页" id="kFjAqzQw0wUP-WtaQGEu">
-    <mxGraphModel>
+    <mxGraphModel dx="3332" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-2" target="-lPpbDqRdvk58V6IVNGZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-2" value="导单支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-4" target="-lPpbDqRdvk58V6IVNGZ-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-4" value="低舱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-5" target="-lPpbDqRdvk58V6IVNGZ-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-5" value="降舱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-11" target="-lPpbDqRdvk58V6IVNGZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-25" value="支付" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lPpbDqRdvk58V6IVNGZ-18">
+          <mxGeometry x="-0.12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-11" target="-lPpbDqRdvk58V6IVNGZ-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-93" value="占座" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lPpbDqRdvk58V6IVNGZ-92">
+          <mxGeometry x="-0.1667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-11" value="占座？支付" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-17" target="-lPpbDqRdvk58V6IVNGZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-17" value="判断是否支付后进低舱" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-19" target="-lPpbDqRdvk58V6IVNGZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-19" value="收到支付结果后，设置进低舱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-21" target="-lPpbDqRdvk58V6IVNGZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-21" value="直接进低舱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-17" target="-lPpbDqRdvk58V6IVNGZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-23" value="不开卡" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-26" value="不开卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-28" target="-lPpbDqRdvk58V6IVNGZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-32" value="滞留" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lPpbDqRdvk58V6IVNGZ-31">
+          <mxGeometry x="-0.3" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-28" target="-lPpbDqRdvk58V6IVNGZ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-35" value="不滞留" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lPpbDqRdvk58V6IVNGZ-34">
+          <mxGeometry x="-0.3" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-28" value="是否滞留" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-33" target="-lPpbDqRdvk58V6IVNGZ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-33" value="发起自动支付任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-38" target="-lPpbDqRdvk58V6IVNGZ-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-42" value="单程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lPpbDqRdvk58V6IVNGZ-41">
+          <mxGeometry x="-0.0444" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-38" target="-lPpbDqRdvk58V6IVNGZ-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-75" value="往返" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lPpbDqRdvk58V6IVNGZ-74">
+          <mxGeometry x="-0.0568" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-38" value="单程、往返" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-43" target="-lPpbDqRdvk58V6IVNGZ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-43" target="-lPpbDqRdvk58V6IVNGZ-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-43" value="判断是否多人分开支付" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-44" target="-lPpbDqRdvk58V6IVNGZ-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-44" value="多人分开支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-46" target="-lPpbDqRdvk58V6IVNGZ-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-46" value="多人一起支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-48" target="-lPpbDqRdvk58V6IVNGZ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-48" value="按规则对乘客分组" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-50" target="-lPpbDqRdvk58V6IVNGZ-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-50" value="需要开卡" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-52" target="-lPpbDqRdvk58V6IVNGZ-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-52" value="按支付方式payType分类&lt;div&gt;01非占座类&amp;nbsp;&lt;/div&gt;&lt;div&gt;02占座类&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1370" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-54" target="-lPpbDqRdvk58V6IVNGZ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-54" value="根据平台订单号（开卡时绑定的订单信息）&lt;div&gt;+ 支付方式payType&lt;/div&gt;&lt;div&gt;+卡类型（CT卡、Q卡）&lt;/div&gt;&lt;div&gt;+卡创建状态（是否开卡成功）&lt;/div&gt;&lt;div&gt;+&lt;font color=&quot;#97d077&quot;&gt;卡使用状态（是否已使用）&lt;/font&gt;&lt;br&gt;&lt;div&gt;多人分开支付时，根据reqId中包含乘客id查询&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1490" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-56" target="-lPpbDqRdvk58V6IVNGZ-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-56" target="-lPpbDqRdvk58V6IVNGZ-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-56" value="使用唯一标识查询订单内是否有可用的卡信息" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="1710" width="155" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-58" value="使用已开过的虚拟卡" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-60" target="-lPpbDqRdvk58V6IVNGZ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-60" value="开卡" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-66" value="&lt;br&gt;&lt;div&gt;单程无行李、付费行李&lt;/div&gt;&lt;div&gt;往返分开支&lt;/div&gt;&lt;div&gt;取底价*人数+行李额&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;有免费行李、往返一起支&lt;/div&gt;&lt;div&gt;取订单总价&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;总价上浮 5%&amp;nbsp; 个别航司上浮20%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="297" y="2010" width="232.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-68" value="行程Id_乘客Id 作为唯一标识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="451.5" y="1150" width="217" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-71" value="行程Id作为唯一标识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-76" value="新增开卡场景标识字段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-77" target="-lPpbDqRdvk58V6IVNGZ-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-81" value="一起付" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lPpbDqRdvk58V6IVNGZ-80">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-77" target="-lPpbDqRdvk58V6IVNGZ-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-87" value="分开付" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lPpbDqRdvk58V6IVNGZ-83">
+          <mxGeometry x="0.1375" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-77" value="判断分开付一起付" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-79" value="行程Id+往返一起作为唯一标识" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-82" target="-lPpbDqRdvk58V6IVNGZ-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-82" value="按行程拆分" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-84" value="行程Id+往返分开作为唯一标识" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-91" value="占座成功后进低舱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-96" target="-lPpbDqRdvk58V6IVNGZ-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-113" value="支付" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lPpbDqRdvk58V6IVNGZ-99">
+          <mxGeometry x="0.2941" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-96" target="-lPpbDqRdvk58V6IVNGZ-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-112" value="占座" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lPpbDqRdvk58V6IVNGZ-107">
+          <mxGeometry x="-0.0789" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-96" value="占座/支付" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-98" target="-lPpbDqRdvk58V6IVNGZ-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-98" value="支付成功后，加入低舱任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-100" value="不开卡&lt;div&gt;刷到后程序内开卡，并且更新到低舱任务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-106" target="-lPpbDqRdvk58V6IVNGZ-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-106" value="占座成功后，加入低舱任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-108" target="-lPpbDqRdvk58V6IVNGZ-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-108" value="不开卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-110" value="刷到低舱后占座" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-114" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;降舱场景&lt;/h1&gt;&lt;p&gt;来单升舱&lt;/p&gt;&lt;p&gt;自动支付已开卡，降舱使用已开的虚拟卡&lt;/p&gt;&lt;p&gt;先支付一个升舱后的，防止多次升舱&lt;/p&gt;&lt;p&gt;不开卡，刷到降舱后再开&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="140" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-115" target="-lPpbDqRdvk58V6IVNGZ-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-119" value="直接放降舱" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lPpbDqRdvk58V6IVNGZ-118">
+          <mxGeometry x="-0.2611" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-115" target="-lPpbDqRdvk58V6IVNGZ-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-880" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-126" value="支付后放降舱" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-lPpbDqRdvk58V6IVNGZ-123">
+          <mxGeometry x="-0.2667" y="3" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-115" value="直接放降舱" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-117" target="-lPpbDqRdvk58V6IVNGZ-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-117" value="使用自动支付的卡信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-120" target="-lPpbDqRdvk58V6IVNGZ-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-120" value="不开卡" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-122" target="-lPpbDqRdvk58V6IVNGZ-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-880" y="720" />
+              <mxPoint x="-880" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-122" value="不开卡" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-lPpbDqRdvk58V6IVNGZ-124" target="-lPpbDqRdvk58V6IVNGZ-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-124" value="刷到后开卡" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-127" value="更新卡信息到降舱任务，防止支付失败重复开卡" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-lPpbDqRdvk58V6IVNGZ-131" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;重复开卡场景&lt;/h1&gt;&lt;p&gt;1、新接入虚拟卡时，未设置重复开卡判断。（自动支付失败，定时任务支付失败重试）&lt;/p&gt;&lt;p&gt;2、往返刷低舱，重复开卡&lt;/p&gt;&lt;p&gt;（低舱判断订单状态非支付全部成功，进行首次支付，往返订单，其中一程未支付成功，低舱判断到订单状态，非支付全部成功，再次发起支付）&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="140" width="260" height="340" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
