@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.8">
   <diagram name="第 1 页" id="w6-EaDdpGE8niemOMU4S">
-    <mxGraphModel dx="2990" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,7 +239,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hNd8LivyKxEMw5aS4ujh-122" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="384" width="460" height="376.00000000000045" as="geometry" />
+          <mxGeometry x="1730" y="384" width="460" height="422.00000000000045" as="geometry" />
         </mxCell>
         <mxCell id="hNd8LivyKxEMw5aS4ujh-123" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-122">
           <mxGeometry width="460" height="40" as="geometry" />
@@ -313,8 +313,26 @@
             <mxRectangle width="140" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hNd8LivyKxEMw5aS4ujh-355" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-122">
+          <mxGeometry y="166" width="460" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hNd8LivyKxEMw5aS4ujh-356" value="退票类型" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-355">
+          <mxGeometry width="110" height="46" as="geometry">
+            <mxRectangle width="110" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hNd8LivyKxEMw5aS4ujh-357" value="退现/退券" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-355">
+          <mxGeometry x="110" width="210" height="46" as="geometry">
+            <mxRectangle width="210" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hNd8LivyKxEMw5aS4ujh-358" value="下拉" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-355">
+          <mxGeometry x="320" width="140" height="46" as="geometry">
+            <mxRectangle width="140" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hNd8LivyKxEMw5aS4ujh-127" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-122">
-          <mxGeometry y="166" width="460" height="40" as="geometry" />
+          <mxGeometry y="212" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hNd8LivyKxEMw5aS4ujh-128" value="是否可退" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-127">
           <mxGeometry width="110" height="40" as="geometry">
@@ -332,7 +350,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hNd8LivyKxEMw5aS4ujh-131" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-122">
-          <mxGeometry y="206" width="460" height="40" as="geometry" />
+          <mxGeometry y="252" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hNd8LivyKxEMw5aS4ujh-132" value="服务费" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-131">
           <mxGeometry width="110" height="40" as="geometry">
@@ -350,7 +368,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hNd8LivyKxEMw5aS4ujh-136" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-122">
-          <mxGeometry y="246" width="460" height="50" as="geometry" />
+          <mxGeometry y="292" width="460" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hNd8LivyKxEMw5aS4ujh-137" value="票收取费用" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-136">
           <mxGeometry width="110" height="50" as="geometry">
@@ -368,7 +386,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hNd8LivyKxEMw5aS4ujh-140" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-122">
-          <mxGeometry y="296" width="460" height="40" as="geometry" />
+          <mxGeometry y="342" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hNd8LivyKxEMw5aS4ujh-141" value="税收取费用" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-140">
           <mxGeometry width="110" height="40" as="geometry">
@@ -386,7 +404,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hNd8LivyKxEMw5aS4ujh-144" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-122">
-          <mxGeometry y="336" width="460" height="40" as="geometry" />
+          <mxGeometry y="382" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hNd8LivyKxEMw5aS4ujh-145" value="实退金额" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="hNd8LivyKxEMw5aS4ujh-144">
           <mxGeometry width="110" height="40" as="geometry">
