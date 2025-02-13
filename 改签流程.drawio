@@ -4,14 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R232gnSYes4nJ5WGdPtW-1" value="携程/同程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-2" target="R232gnSYes4nJ5WGdPtW-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-2" value="改签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-3" target="R232gnSYes4nJ5WGdPtW-17">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-9" value="认领/锁单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-17" target="R232gnSYes4nJ5WGdPtW-45">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-22" value="发起改签任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-26" target="R232gnSYes4nJ5WGdPtW-28">
           <mxGeometry relative="1" as="geometry" />
@@ -54,37 +51,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-26" value="判断改期费/机票差/税差&lt;div&gt;是否符合&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="640" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-28" target="R232gnSYes4nJ5WGdPtW-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-28" value="改签成功" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-30" value="回填" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-32" target="R232gnSYes4nJ5WGdPtW-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-32" value="改签失败，有亏损" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-34" target="R232gnSYes4nJ5WGdPtW-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-34" value="人工发起强制改签任务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-36" target="R232gnSYes4nJ5WGdPtW-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-36" value="回填" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-38" value="申诉、提差异订单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-43" target="R232gnSYes4nJ5WGdPtW-44">
           <mxGeometry relative="1" as="geometry" />
