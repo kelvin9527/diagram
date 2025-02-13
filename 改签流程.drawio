@@ -87,10 +87,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-43" value="发起查询改签费任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R232gnSYes4nJ5WGdPtW-44" value="收到结果后回填价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="940" width="120" height="60" as="geometry" />
+        <mxCell id="R232gnSYes4nJ5WGdPtW-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-44" target="R232gnSYes4nJ5WGdPtW-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R232gnSYes4nJ5WGdPtW-44" value="改期费/税差/票差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-45" target="R232gnSYes4nJ5WGdPtW-43">
           <mxGeometry relative="1" as="geometry" />
@@ -115,22 +118,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-48" value="查询订单 是否有航变？&lt;div&gt;发起验证任务查询是否有航变？&lt;/div&gt;&lt;div&gt;有特殊事件&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="670" width="140" height="90" as="geometry" />
+          <mxGeometry x="30" y="600" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="R232gnSYes4nJ5WGdPtW-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-51" target="R232gnSYes4nJ5WGdPtW-53">
+        <mxCell id="R232gnSYes4nJ5WGdPtW-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-51" target="R232gnSYes4nJ5WGdPtW-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R232gnSYes4nJ5WGdPtW-51" value="符合非自愿" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R232gnSYes4nJ5WGdPtW-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-53" target="R232gnSYes4nJ5WGdPtW-55">
+        <mxCell id="R232gnSYes4nJ5WGdPtW-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R232gnSYes4nJ5WGdPtW-64" target="R232gnSYes4nJ5WGdPtW-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R232gnSYes4nJ5WGdPtW-53" value="改期费/税差/票差" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="960" width="120" height="60" as="geometry" />
+        <mxCell id="R232gnSYes4nJ5WGdPtW-64" value="飞猪/去哪，可以加价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R232gnSYes4nJ5WGdPtW-55" value="回填" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1100" width="120" height="60" as="geometry" />
+        <mxCell id="R232gnSYes4nJ5WGdPtW-65" value="回填" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
